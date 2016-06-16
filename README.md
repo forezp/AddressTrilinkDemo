@@ -6,6 +6,7 @@
 效果图：
 
 <img src="http://img.blog.csdn.net/20160616165630865" width = "300"  alt="图片名称" align=center />
+<br>
 首先建了三个Model 用于存数据
 存省 和市的list 和区的
 ```java
